@@ -1,6 +1,6 @@
 👋 Hi, I’m Felix <br>
 👀 I’m an Independent UX Engineer and interaction Designer from Hamburg, Germany.<br>
-🌱 Moved to AWS CodeCommit with all my repositories – No more activity here.<br>
+📦 Moved to AWS CodeCommit with all my repositories – No more activity here.<br>
 📫 welcome@felix-media.com<br>
 🎨 https://felixbick.de<br>
 
